@@ -1,11 +1,6 @@
 # Projet Transcendence
 ![image](https://github.com/BenJ3D/ft_transcendence/assets/49345674/76945b29-d616-469b-b100-465541ffc134)
 
-## demo en ligne ici => www.pongpod.fr 
-- creer un compte en cliquant sur INVITE MODE puis SIGN IN
-- definir un mot de passe et CONNECT
-- pensez à mémoriser votre login (userX..) pour pouvoir vous reconnecter plus tard.
-
 ## Description
 
 Transcendence est un projet final de l'école 42. Il s'agit de créer une version en ligne et multijoueur du jeu Pong, similaire à l'original de 1972. Le jeu inclut également un chatroom, un système de matchmaking, des duels, une liste d'amis et un système de blocage.
